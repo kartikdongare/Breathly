@@ -1,0 +1,34 @@
+.medi-seaction{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.img1{
+    height: 260px;
+    width: 260px;
+    transition: all 2s linear;
+    border-radius: 50%;
+}
+.img1:hover{
+    transform: rotateY(180deg);
+    transition: all 2s linear;
+}
+.medi-images1{
+    height: 150px;
+    width: 100%;
+    text-align: center;
+}
+.main-image{
+    width: 95%;
+    height: 250px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.main-image:hover{
+    background-color: rgb(133, 131, 131);
+    transition: all .3s linear;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.main-acc{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.sub-sett{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+.sub-sett .icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #c2beb2;
+
+    padding: 8px;
+    color: #16acf2;
+   
+}

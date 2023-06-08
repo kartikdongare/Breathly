@@ -1,0 +1,15 @@
+.main-sleep-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px;
+}
+.sleep-page2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.A2{
+    display: flex;
+    justify-content: space-around;
+}

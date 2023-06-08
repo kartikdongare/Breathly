@@ -1,0 +1,24 @@
+.main-login{
+    margin: 20px auto;
+}
+.sub-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.main-login .icons1{
+    /* border: 1px solid black; */
+    /* padding: 10px; */
+    /* font-size: 20px; */
+    border-radius: 50%;
+    box-shadow: 0 0 10px #c2beb2;
+}
+.icons2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid blue;
+    padding: 10px;
+}
